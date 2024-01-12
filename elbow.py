@@ -1,3 +1,6 @@
+#autor: Márcio Belloni
+#whatsapp: 11 97825-0198
+
 import pandas as pd
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
